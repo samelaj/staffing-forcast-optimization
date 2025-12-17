@@ -1,8 +1,8 @@
 "# Staffing Forecast Optimization" 
 "## Project Overview"
-"End to End Pipeline to forcast hourly demand and computes optimal staffing schedules"
+"End to End Pipeline to forecast hourly demand and computes optimal staffing schedules"
 "## Methods:"
-" - Time series forcasting"
+" - Time series forecasting"
 " - Optimization (linear & integer programming)"
 " - Simultaion to evaluate staffing policies"
 
